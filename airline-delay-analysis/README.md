@@ -3,7 +3,15 @@
 This project analyzes flight delay patterns using a dataset from August 2018 to identify operational inefficiencies in the US domestic airline industry. We used **MongoDB**, **Snowflake**, and **Tableau** to uncover insights on delays, cancellations, and performance patterns.
 
 ---
+## 📂 Dataset
 
+The dataset used for this project was sourced from the U.S. Department of Transportation, made publicly available via Data.World:
+
+🔗 [Airline On-Time Performance Statistics Dataset](https://data.world/dot/airline-on-time-performance-statistics)
+
+It includes flight, airport, and delay information for U.S. domestic flights in August 2018.
+
+---
 ## 🧠 Objective
 
 To investigate the causes of airline delays and cancellations and build a scalable analytics solution using:
