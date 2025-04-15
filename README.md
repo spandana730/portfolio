@@ -7,12 +7,11 @@ This repository showcases a selection of my most impactful projects in AI/ML, da
 ---
 
 ## 🚀 Featured Projects
-
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [Multi-Agent UI Generator](./multi-agent-ui-gen) | Automates HTML/CSS UI generation from prompts using collaborative LLM agents for Design, Development, and QA. | Python, LangGraph, Streamlit |
-| [BARTNet Ridership Forecasting](./bartnet-ridership) | Deep learning framework integrating contextual and temporal data to forecast BART ridership. IEEE CAI 2025. | PyTorch, BERT, LSTM, Transformers |
-| [Real-Time E-Commerce Analytics](./real-time-ecom-pipeline) | Dual-pipeline architecture combining stream processing with offline ML to analyze user behavior in real-time. | Kafka, Flink, Redis, MongoDB, SHAP, XGBoost |
+| [Multi-Agent UI Generator](https://github.com/spandana730/portfolio/tree/main/multi-agent) | Automates HTML/CSS UI generation from prompts using collaborative LLM agents for Design, Development, and QA. | Python, LangGraph, Streamlit |
+| [BARTNet Ridership Forecasting](https://github.com/spandana730/portfolio/tree/main/bartnet-ridership) | Deep learning framework integrating contextual and temporal data to forecast BART ridership. IEEE CAI 2025. | PyTorch, BERT, LSTM, Transformers |
+| [Real-Time E-Commerce Analytics](https://github.com/spandana730/portfolio/tree/main/real-time-ecom-pipeline) | Dual-pipeline architecture combining stream processing with offline ML to analyze user behavior in real-time. | Kafka, Flink, Redis, MongoDB, SHAP, XGBoost |
 
 ---
 
