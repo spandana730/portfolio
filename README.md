@@ -15,9 +15,12 @@ This repository showcases a selection of my most impactful projects in AI/ML, da
 
 ---
 
-## 🧠 Skills
-`Python` • `SQL` • `PyTorch` • `Kafka` • `Flink` • `LangChain` • `AWS` • `Streamlit` • `MongoDB` • `Redis` • `Hugging Face` • `Power BI`
-
+## 🧠Skills
+- **Programming Languages**: Python, SQL  
+- **Database Management Systems**: MySQL, Snowflake, Oracle, MongoDB, PostgreSQL  
+- **Big Data Technologies**: Flink, Kafka, Redis, Airflow, Spark, Elasticsearch, AWS, Azure, Docker, Git  
+- **Visualization & BI Tools**: Tableau, Power BI, MS Excel, Kibana  
+- **AI/ML Frameworks and Libraries**: TensorFlow, Keras, Scikit-learn, PyTorch, NLP, RAG, LangChain, Hugging Face, MLOps
 ---
 
 ## 📫 Let’s Connect
