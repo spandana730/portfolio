@@ -27,4 +27,4 @@ An interactive financial performance dashboard built with Power BI, using Micros
 
 ## 📷 Dashboard Preview
 
-![screenshot](screenshot.png)
+![screenshot](dashboard.png)
