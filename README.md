@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Spandana Potti
+#  Hi, I'm Spandana Potti
 
 Welcome to my project portfolio! I’m a graduate student at San Jose State University (MS in Data Analytics), with a strong focus on building intelligent systems, real-time data pipelines, and collaborative AI applications.
 
@@ -6,7 +6,7 @@ This repository showcases a selection of my most impactful projects in AI/ML, da
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [Multi-Agent UI Generator](https://github.com/spandana730/portfolio/tree/main/multi-agent) | Automates HTML/CSS UI generation from prompts using collaborative LLM agents for Design, Development, and QA. | Python, LangGraph, Streamlit |
@@ -15,7 +15,7 @@ This repository showcases a selection of my most impactful projects in AI/ML, da
 
 ---
 
-## 🧠Skills
+## Skills
 - **Programming Languages**: Python, SQL  
 - **Database Management Systems**: MySQL, Snowflake, Oracle, MongoDB, PostgreSQL  
 - **Big Data Technologies**: Flink, Kafka, Redis, Airflow, Spark, Elasticsearch, AWS, Azure, Docker, Git  
@@ -23,7 +23,7 @@ This repository showcases a selection of my most impactful projects in AI/ML, da
 - **AI/ML Frameworks and Libraries**: TensorFlow, Keras, Scikit-learn, PyTorch, NLP, RAG, LangChain, Hugging Face, MLOps
 ---
 
-## 📫 Let’s Connect
+##  Let’s Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/spandana-potti)
 - 📧 [spandanapotti30@gmail.com](mailto:spandanapotti30@gmail.com)
