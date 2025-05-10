@@ -1,7 +1,7 @@
 
 # Multi-Agent UI Generator
 
-🚀 **Live Demo**: [Try it on Hugging Face]((https://huggingface.co/spaces/Rahul-8799/MAC_UI ))
+🚀 **Live Demo**: [Try it on Hugging Face](https://huggingface.co/spaces/Rahul-8799/MAC_UI)
 
 This project implements a collaborative multi-agent system to automate HTML/CSS UI creation from natural language prompts using LangGraph, Streamlit, and Hugging Face.
 
