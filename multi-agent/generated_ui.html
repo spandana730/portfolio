@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Yoga Retreat</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+      }
+
+      ul {
+        list-style: none;
+      }
+
+      a {
+        text-decoration: none;
+        color: #333;
+      }
+
+      .btn {
+        display: inline-block;
+        padding: 0.5em 1em;
+        background-color: #007bff;
+        color: #fff;
+        border-radius: 0.25em;
+        transition: background-color 0.2s ease;
+      }
+
+      .btn:hover {
+        background-color: #0069d9;
+      }
+
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+      }
+
+      .section {
+        padding: 4em 0;
+      }
+
+      .section--light {
+        background-color: #f2f2f2;
+      }
+
+      .section--dark {
+        background-color: #333;
+        color: #fff;
+      }
+
+      .header {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: 100;
+      }
+
+      .header ul {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .header ul li {
+        margin: 0 1em;
+      }
+
+      .header ul li a {
+        color: #333;
+        transition: color 0.2s ease;
+      }
+
+      .header ul li a:hover {
+        color: #007bff;
+      }
+
+      .hero {
+        height: 100vh;
+        background-image: url("https://unsplash.it/1600/900?yoga");
+        background-position: center;
+        background-size: cover;
+        position: relative;
+      }
+
+      .hero .overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+      }
+
+      .hero h1,
+      .hero h2 {
+        color: #fff;
+        text-align: center;
+      }
+
+      .hero h1 {
+        font-size: 3em;
+      }
+
+      .hero h2 {
+        font-size: 1.5em;
+      }
+
+      .hero .btn {
+        position: absolute;
+        bottom: 1em;
+        left: 50%;
+        transform: translateX(-50%);
+      }
+
+      @media (max-width: 767px) {
+        .header ul {
+          flex-direction: column;
+        }
+
+        .hero .btn {
+          position: static;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="header">
+      <ul>
+        <li><a href="#schedule">Schedule</a></li>
+        <li><a href="#testimonials">Testimonials</a></li>
+      </ul>
+    </header>
+    <div class="hero">
+      <div class="overlay"></div>
+      <h1>Welcome to Our Yoga Retreat</h1>
+      <h2>Find Inner Peace and Serenity</h2>
+      <button class="btn">Join Us Now</button>
+    </div>
+    <section class="section section--light">
+      <div class="container">
+        <h2>Our Schedule</h2>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor, magna non
+          aliquet lacinia, nulla nibh tincidunt nibh, a bibendum quam nisi et nisi.
+          Praesent eget arcu vitae mauris tincidunt auctor.
+        </p>
+      </div>
+    </section>
+    <section class="section section--dark">
+      <div class="container">
+        <h2>Testimonials</h2>
+        <blockquote>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor, magna non
+          aliquet lacinia, nulla nibh tincidunt nibh, a bibendum quam nisi et nisi.
+          Praesent eget arcu vitae mauris tincidunt auctor.
+        </blockquote>
+        <p>- John Doe</p>
+      </div>
+    </section>
+    <footer>
+      <p>&copy; 2023 Yoga Retreat</p>
+    </footer>
+  </body>
+</html>
