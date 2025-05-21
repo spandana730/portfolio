@@ -4,6 +4,7 @@ Welcome to my project portfolio! I’m a graduate student at San Jose State Univ
 
 This repository showcases a selection of my most impactful projects in AI/ML, data engineering, and agent-based automation.
 
+
 ---
 
 ##  Featured Projects
@@ -12,6 +13,8 @@ This repository showcases a selection of my most impactful projects in AI/ML, da
 | [Multi-Agent UI Generator](https://github.com/spandana730/portfolio/tree/main/multi-agent) | Automates HTML/CSS UI generation from prompts using collaborative LLM agents for Design, Development, and QA. | Python, LangGraph, Streamlit |
 | [BARTNet Ridership Forecasting](https://github.com/spandana730/portfolio/tree/main/bartnet-ridership) | Deep learning framework integrating contextual and temporal data to forecast BART ridership. IEEE CAI 2025. | PyTorch, BERT, LSTM, Transformers |
 | [Real-Time E-Commerce Analytics](https://github.com/spandana730/portfolio/tree/main/real-time-ecom-pipeline) | Dual-pipeline architecture combining stream processing with offline ML to analyze user behavior in real-time. | Kafka, Flink, Redis, MongoDB, SHAP, XGBoost |
+| [SF POI Density Map](https://spandana730.github.io/portfolio/sf-poi-analysis/) | Interactive choropleth map visualizing restaurants, schools, cafes & hospitals across San Francisco neighborhoods. | Python, Folium, GeoPandas, OpenStreetMap |
+
 
 ---
 
