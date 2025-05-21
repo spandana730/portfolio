@@ -14,5 +14,8 @@ This project analyzes the distribution of restaurants, cafes, schools, and hospi
 - `analysis.ipynb`: Full code
 - `sf-neighborhoods-analysis.json`: GeoJSON boundary file
 
-## 🔗 Live Demo
-[View Map on Portfolio](https://github.com/spandana730/portfolio/tree/main/sf-poi-analysis)
+## 🗺️ San Francisco POI Density Map
+Interactive choropleth map visualizing restaurant and amenity density across SF neighborhoods.
+
+🔗 [View Live Map](https://spandana730.github.io/portfolio/sf-poi-analysis/)
+
