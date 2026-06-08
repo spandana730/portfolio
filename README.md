@@ -1,36 +1,113 @@
-#  Hi, I'm Spandana Potti
+# Spandana Potti – AI Engineering Portfolio
 
-Welcome to my project portfolio! I’m a graduate student at San Jose State University (MS in Data Analytics), with a strong focus on building intelligent systems, real-time data pipelines, and collaborative AI applications.
+I am an AI Engineer specializing in building **production-grade AI systems** across Generative AI, Multi-Agent Architectures, and Distributed Data Engineering.
 
-This repository showcases a selection of my most impactful projects in AI/ML, data engineering, and agent-based automation.
+My work focuses on designing end-to-end intelligent systems that combine:
+- LLM orchestration and agentic workflows
+- Scalable ML and deep learning pipelines
+- Real-time data processing systems
+- Cloud-native deployments (AWS, distributed systems)
 
+---
+
+##  Core Expertise
+
+### 🤖Agentic AI Systems
+Designing multi-agent frameworks using LangGraph, MCP, and A2A patterns to automate complex workflows such as software development, decision-making, and task orchestration.
+
+###  Generative AI & LLM Systems
+Building RAG pipelines, fine-tuning LLMs (LoRA/QLoRA), and integrating open-source models like Llama and Mistral for domain-specific intelligence systems.
+
+###  Data Engineering & Distributed Systems
+Developing real-time streaming pipelines using Kafka, Flink, Spark, Redis, and Elasticsearch for large-scale event processing and analytics.
+
+###  Machine Learning Systems
+Building end-to-end ML pipelines for forecasting, classification, and predictive analytics using deep learning architectures and MLOps practices.
 
 ---
 
 ##  Featured Projects
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [Multi-Agent UI Generator](https://github.com/spandana730/portfolio/tree/main/multi-agent) | Automates HTML/CSS UI generation from prompts using collaborative LLM agents for Design, Development, and QA. | Python, LangGraph, Streamlit |
-| [BARTNet Ridership Forecasting](https://github.com/spandana730/portfolio/tree/main/bartnet-ridership) | Deep learning framework integrating contextual and temporal data to forecast BART ridership. IEEE CAI 2025. | PyTorch, BERT, LSTM, Transformers |
-| [Real-Time E-Commerce Analytics](https://github.com/spandana730/portfolio/tree/main/real-time-ecom-pipeline) | Dual-pipeline architecture combining stream processing with offline ML to analyze user behavior in real-time. | Kafka, Flink, Redis, MongoDB, SHAP, XGBoost |
-| [SF POI Density Map](https://spandana730.github.io/portfolio/sf-poi-analysis/) | Interactive choropleth map visualizing restaurants, schools, cafes & hospitals across San Francisco neighborhoods. | Python, Folium, GeoPandas, OpenStreetMap |
-
 
 ---
 
-## Skills
-- **Programming Languages**: Python, SQL  
-- **Database Management Systems**: MySQL, Snowflake, Oracle, MongoDB, PostgreSQL  
-- **Big Data Technologies**: Flink, Kafka, Redis, Airflow, Spark, Elasticsearch, AWS, Azure, Docker, Git  
-- **Visualization & BI Tools**: Tableau, Power BI, MS Excel, Kibana  
-- **AI/ML Frameworks and Libraries**: TensorFlow, Keras, Scikit-learn, PyTorch, NLP, RAG, LangChain, Hugging Face, MLOps
----
+###  Multi-Agent Software Engineering System (FLAGSHIP)
+A production-style multi-agent AI system that automates software development workflows using 5 specialized agents (Planner, Coder, Reviewer, Tester, Validator).
 
-##  Let’s Connect
+- Built using LangGraph with MCP and A2A collaboration patterns
+- Achieved ~75% task generation success rate across automated workflows
+- Integrated AWS Step Functions, S3, and CloudWatch for orchestration and monitoring
+- Incorporated fine-tuned LLMs (Llama, Mistral) using LoRA/QLoRA
+- Reduced manual engineering effort by ~30%
 
-- 💼 [LinkedIn](https://linkedin.com/in/spandana-potti)
-- 📧 [spandanapotti30@gmail.com](mailto:spandanapotti30@gmail.com)
+👉 https://github.com/spandana730/portfolio/tree/main/multi-agent
 
 ---
 
-> “Turning data into intelligent action — one project at a time.”
+### BARTNet – Ridership Forecasting System
+Deep learning-based time-series forecasting framework for transit demand prediction.
+
+- Designed hybrid architecture using LSTM, Bi-LSTM, TCN, and BERT
+- Improved forecasting accuracy by 65%
+- Reduced RMSE from 6.14 → 2.10 and MAPE by 58%
+- Used MLflow for experiment tracking and model versioning
+- Identified Bi-LSTM as best-performing production model
+
+👉 https://github.com/spandana730/portfolio/tree/main/bartnet-ridership
+
+---
+
+###  Real-Time E-Commerce Analytics Pipeline
+End-to-end streaming data pipeline for real-time user behavior analytics.
+
+- Built using Kafka, Flink, Redis, and MongoDB
+- Processed 1M+ real-time user events
+- Integrated Spark for batch processing and hybrid analytics
+- Used Elasticsearch + Kibana for real-time dashboards
+- Improved recommendation accuracy by 18% and segmentation by 30%
+
+👉 https://github.com/spandana730/portfolio/tree/main/real-time-ecom-pipeline
+
+---
+
+##  System Design Mindset
+
+Across all projects, I focus on:
+
+- Scalable distributed architectures
+- Modular AI agent design patterns
+- Production-level observability and monitoring
+- Reproducibility through MLOps practices
+- End-to-end pipeline automation
+
+---
+
+##  Tech Stack
+
+**AI/ML:** PyTorch, TensorFlow, Scikit-learn, Hugging Face  
+**LLMs:** LangChain, LangGraph, OpenAI APIs, Llama, Mistral  
+**Data Engineering:** Kafka, Flink, Spark, Redis, Elasticsearch  
+**Cloud:** AWS (S3, Step Functions, CloudWatch, EC2)  
+**MLOps:** MLflow, Docker, GitHub Actions  
+**Databases:** MongoDB, PostgreSQL, Snowflake  
+
+---
+
+##  What This Portfolio Demonstrates
+
+- Ability to design **end-to-end AI systems**, not just models
+- Strong focus on **scalability, performance, and production readiness**
+- Experience with **agent-based AI architectures**
+- Expertise in **real-time and batch data systems**
+- Practical application of **modern LLM + MLOps stacks**
+
+---
+
+##  Contact
+
+- Email: spandanapotti30@gmail.com  
+- LinkedIn: https://www.linkedin.com  
+---
+
+## ⭐ Note
+
+This repository serves as the central index for all my engineering projects. Each linked project contains full source code, architecture details, and implementation breakdowns.
