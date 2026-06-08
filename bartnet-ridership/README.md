@@ -15,7 +15,7 @@ Traditional models like ARIMA fail to capture complex patterns in public transit
 
 ## System Architecture
 
-![BARTNet Architecture](./architecture/system_diagram.png)
+![BARTNet Architecture](./architecture/system_architecture.png)
 
 ##  Methodology
 - Collected hourly BART ridership data (Apr 2020–Nov 2024)
