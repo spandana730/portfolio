@@ -60,7 +60,7 @@ The entire system is orchestrated using **LangGraph**, enabling:
 
 Below is the high-level architecture of the multi-agent system:
 
-![Multi-Agent Architecture](./architecture/system_diagram.png)
+![Multi-Agent Architecture](./architecture/agent.png)
 
 ---
 
